@@ -1,0 +1,59 @@
+ADA LOVELACE ANIVERSARY 
+~
+
+Em homenagem a primeira programadora da história ....uma webpage for her
+
+1.Como se deu a conhecer a história de Ada LOVELACE
+
+O ano é 2012, o jornal  The New York Times publicou um estudo da Universidade de Yale que revelou como universidades e empresas favoreciam os estudantes homens em detrimento das suas colegas mulheres em processos seletivos. Não é novidade para ninguém que as mulheres na ciência são desvalorizadas, recebem menores salários e têm dificuldade de conseguir bons empregos. Foi por esta razão que, desde 2009 é celebrado o Dia de Ada Lovelace, em homenagem à primeira programadora do mundo. Conheça mais sobre essa pioneira que é exemplo para tantas mulheres nos dias de hoje.
+
+2.Como ela foi educada??
+
+Tudo começou na sua infância ,sua mãe Anne Isabella Milbanke, matemática e ativista social ,fez com que sua filha se dedicasse à ciência desde muito jovem. Esse tipo de educação era muito incomum para mulheres na época. O objetivo de Annabella era garantir que a filha focasse nos números e não seguisse a carreira poética de Byron,seu Pai, pois o considerava insano. Um dos mentores de Ada Lovelace foi Augustus De Morgan, o primeiro professor de matemática na Universidade de Londres. Essa mesma universidade foi a primeira na Inglaterra a permitir que mulheres se graduassem. Mas isso só aconteceu em 1878, 26 anos após a morte de Ada. 
+
+3.O seu contributo na história...
+
+No ano 1842, Babbage foi convidado para ministrar um seminário na Universidade de Turim sobre sua máquina analítica. O jovem engenheiro Luigi Menabrea, publicou a palestra de Babbage, mas em francês. Desse modo, Charles Babbage atribuiu para Ada a tradução desse material para a língua inglesa junto com suas notas sobre o assunto.
+
+Entre as notas de Ada, classificadas alfabeticamente de A a G, em especial na nota G, ela descreve um algoritmo para a máquina analítica computar a Sequência de Bernoulli. Desde então, é reconhecido como o primeiro algoritmo por ser implementado em um computador, dado que Ada era uma das poucas pessoas do mundo que entendia o funcionamento dessa máquina.
+https://codificadas.ime.usp.br/quem-foi-ada-lovelace-conheca-a-importancia-de-seus-principais-feitos/
+
+Em 1843, Ada Lovelace traduziu os trabalhos do matemático Charles Babbage, que inventou o primeiro computador genérico, chamado de Analytic Machine. Assim, ela percebeu que a máquina seria capaz de muito mais coisas do que seu criador havia imaginado. As notas deixadas por Ada no texto têm mais conteúdo do que a tradução em si. Nessas anotações, ela criou um algoritmo que poderia fazer com com que a Analytical Machine computasse uma série de números complexos, conhecidos como princípio de Bernoulli. Em outras palavras: Lovelace escreveu o primeiro programa de computador do mundo. 
+
+4.Seu nome..
+
+Apesar de ter sido elogiada por colegas próximos, o reconhecimento do pioneirismo de Ada Lovelace na programação só veio quase um século após sua morte, quando Alan Turing, renomado matemático e cientista da computação, fez referência ao trabalho dela. Sua excepcional habilidade matemática e visão analítica aguçada impressionaram tanto que seu amigo e mentor Charles Babbage a apelidou de “Feiticeira dos Números”.
+
+Décadas mais tarde, sua importância foi oficialmente celebrada em diferentes ocasiões: 
+
+Em 1979, o Departamento de Defesa dos Estados Unidos nomeou uma linguagem de programação como “Ada”, em sua honra; 
+Em 2009, foi criado o Ada Lovelace Day, comemorado na segunda terça-feira de outubro, para incentivar mulheres na ciência; 
+Em 2012, no dia 10 de dezembro, data de seu aniversário, ela recebeu um doodle comemorativo do Google.
+
+Leia mais em: https://super.abril.com.br/coluna/superlistas/7-coisas-que-voce-deveria-saber-sobre-ada-lovelace/
+
+5.Frases de Ada Lovelace...
+
+“Quanto mais estudo, mais sinto que minha mente nisso é insaciável.”
+
+“Meu cérebro é mais do que algo meramente mortal, e o tempo mostrará isso.”
+
+“Nunca estou realmente satisfeita quanto a entender alguma coisa; porque, até onde entendo, a minha compreensão só pode ser uma fração infinitesimal de tudo o que eu quero compreender.”
+
+“Agora, mais do que nunca, sou noiva da ciência. Religião para mim é ciência, e ciência é religião.”
+
+“Julgo possuir a combinação mais singular de qualidades perfeitamente adequadas para me tornar, eminentemente, uma descobridora das realidades ocultas da natureza.”
+
+
+7.Outras Mulheres Pioneiras na Tecnologia
+
+Além de Ada Lovelace, muitas outras mulheres marcaram a história da computação e da tecnologia:
+
+As “6 ENIAC” (Kathleen McNulty, Frances Bilas, Betty Jennings, Betty Snyder, Marlyn Wescoff e Ruth Lichterman) – programaram o primeiro computador eletrônico digital de grande escala, o ENIAC, nos anos 1940. https://www.techtudo.com.br/noticias/2023/03/primeiro-computador-moderno-foi-programado-por-mulheres-veja-historia-edinfoeletro.ghtml
+
+Grace Hopper – criadora do primeiro compilador e responsável por popularizar a ideia de linguagens de programação legíveis por humanos. https://www.techtudo.com.br/guia/2023/09/grace-hopper-veja-quem-foi-e-qual-o-legado-da-cientista-da-computacao-edinfoeletro.ghtml
+
+Hedy Lamarr – atriz e inventora, desenvolveu um sistema de comunicação por salto de frequência que inspirou tecnologias como Wi-Fi e Bluetooth.https://aventurasnahistoria.com.br/noticias/vitrine/hedy-lamarr-atriz-que-inventou-o-wi-fi-e-o-bluetooth.phtml
+ https://pt.wikipedia.org/wiki/Hedy_Lamarr
+
+Radia Perlman – conhecida como a “mãe da internet”, inventou o protocolo Spanning Tree, essencial para redes modernas. https://energiainteligenteufjf.com.br/biografia/radia-perlman-a-mae-da-internet/
