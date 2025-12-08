@@ -58,22 +58,16 @@ div#story_container{
     gap: 10px;
 }
 
-div#parte1{
-    
+#img_centro{
+    text-align: center;
 }
 
-#story_container img{
-    width: 500px;
-    height: 300px;
+main ul {
+    list-style-position: inside;
+    list-style-type: disc;
 }
 
-.foto{
-    display: flex;
-    flex: 1;
-}
-
-.foto img{
-    width: 185px;
-    height: 272;
-    margin-top: 20px;
+#menu4{
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
