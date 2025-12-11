@@ -198,9 +198,7 @@ footer a:hover {
 /*responsividade*/
 @media (max-width: 442px) {
      
-    #story_container picture img{
-        display: none;
-    }
+   
 
     .foto{
         display: flex;
@@ -231,6 +229,10 @@ footer a:hover {
 
     #parte1{
         width: 100%;
+    }
+
+     #story_container picture img{
+        display: none;
     }
 
 }  
