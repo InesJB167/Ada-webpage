@@ -197,9 +197,11 @@ footer a:hover {
 
 /*responsividade*/
 @media (max-width: 442px) {
+     header{
+        height: auto;
+        padding: 20rem;
+     }
      
-   
-
     .foto{
         display: flex;
         flex-direction: column;
@@ -219,6 +221,7 @@ footer a:hover {
         width: 100%;
     }
 } 
+
 
 @media (max-width: 786px) {
     .foto{
