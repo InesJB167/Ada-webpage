@@ -202,6 +202,10 @@ footer a:hover {
         padding: 2rem;
      }
 
+     header nav{
+        display: none;
+     }
+
     .foto{
         display: flex;
         flex-direction: column;
