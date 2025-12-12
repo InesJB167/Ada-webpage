@@ -199,9 +199,9 @@ footer a:hover {
 @media (max-width: 442px) {
      header{
         height: auto;
-        padding: 20rem;
+        padding: 2rem;
      }
-     
+
     .foto{
         display: flex;
         flex-direction: column;
